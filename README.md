@@ -1,4 +1,4 @@
-# nlp-experiments
+# Contradictory, My Dear Watson - Kaggle
 
 1. Contradictory My Dear Watson BERT base BSC Function.ipynb - I try to predict whether two sentences form a contradiction, entailment or neutral pair using bert base uncased model. The model I use to classify is imported with a wrapper by huggingface bertsequentialclassifier. I was able to achieve 61% accuracy in 5 epochs. Using this baseline, I will try to measure accuracy of my custom model.
 
